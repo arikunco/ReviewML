@@ -1,2 +1,2 @@
 # ReviewML
-Repository for Review Supervised and Unsupervised Learning Class
+Repository for Review of Supervised and Unsupervised Learning Class
